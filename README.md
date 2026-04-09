@@ -1,4 +1,4 @@
-# 🎬 Sorteador de números
+# 🔢 Sorteador de números
 
 Projeto simples para sortear numeros.
 
